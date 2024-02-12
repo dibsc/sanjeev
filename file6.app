@@ -1,1 +1,10 @@
 This is file6 for branch merge
+This is file6 for branch merge
+This is file6 for branch merge
+This is file6 for branch merge
+This is file6 for branch merge
+This is file6 for branch merge
+This is file6 for branch merge
+This is file6 for branch merge
+This is file6 for branch merge
+This is file6 for branch merge
